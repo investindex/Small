@@ -4,6 +4,7 @@ _ETF details_: Someone investing a small amount of money does not need to build 
 
 _Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum. If you are investing less than $30,000 in the complex mutual fund portfolio, the 10% portions fall below the minimum. The same is true for someone investing less than $15,000 in the simple mutual fund portfolio. This can be solved by switching to ETF counterparts, by concentrating your allocation, or by using Fidelity products. There is no minimum investment in Fidelity mutual funds for someone using a Fidelity account. There is also no minimum for Schwab’s mutual funds.
 
+&nbsp;
 
 I’d like to reiterate that especially for small investors, building an ideal portfolio is not as important as investing without major delay. If simplifying will prevent you from waiting, then simplify. You can even maintain geographic diversification with a total global fund like [VT](https://investor.vanguard.com/etf/profile/VT).
 
