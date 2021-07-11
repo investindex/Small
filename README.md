@@ -13,3 +13,9 @@ A small investor’s gains in wealth will at first emerge overwhelmingly from ea
 Let’s say you invest $1,000 in stocks your first year and make only $100. Was that worth all the research and decision-making you did to get started? Consider that if you keep the $100 invested in stocks, that alone will be worth thousands of dollars in 40 years. And the same is true for every additional $100 you save and put into your stock funds. From the perspective of your future self, of course it was worth the effort, because you can see the enormous value of a small amount of money given time to appreciate.
 
 Finally, the objective of investing as early in life as possible is not only the concrete profit. Too many people are uncomfortable with and even fearful of financial decisions, so becoming informed about financial planning early will allow you to progress through the new learning and decisions required throughout your life with greater confidence and ease.
+
+&nbsp;
+
+[Click here for the next section — Concerns for the large investor](https://github.com/investindex/Large)
+
+&nbsp;
