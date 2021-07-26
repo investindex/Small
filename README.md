@@ -19,3 +19,19 @@ _Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum. If you 
 [Click here for the next section — Concerns for the large investor](https://github.com/investindex/Large)
 
 &nbsp;
+
+All sections:
+
+* [Cover page](https://github.com/investindex/Intro)
+* [Introduction to index funds](https://github.com/investindex/Index)
+* [Thinking about risk](https://github.com/investindex/Risk)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
+* [Building a stock portfolio](https://github.com/investindex/Portfolio)
+* [Fund proposals](https://github.com/investindex/Funds)
+* [Concerns for the small investor](https://github.com/investindex/Small)
+* [Concerns for the large investor](https://github.com/investindex/Large)
+* [Practical information for execution](https://github.com/investindex/Practical)
+* [Taxes](https://github.com/investindex/Taxes)
+* [Vocabulary and further resources](https://github.com/investindex/Vocab)
+
+&nbsp;
