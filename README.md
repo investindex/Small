@@ -10,7 +10,7 @@ Finally, the objective of investing as early in life as possible is not only the
 
 &nbsp;
 
-_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with seven ETFs, and may find it hard to do so if the price of a single share is a significant fraction of their total investment. Options are [provided](https://github.com/investindex/Funds) for selecting a portfolio with three ETFs or even one, but you could design other simple portfolios with two to four ETFs.
+_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with six or eight ETFs, and may find it hard to do so if the price of a single share is a significant fraction of their total investment. Options are [provided](https://github.com/investindex/Funds) for selecting a portfolio with three ETFs or even one, but you could design other simple portfolios with two to four ETFs.
 
 _Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum. If you are investing less than $30,000 in the complex mutual fund portfolio, the 10% portion falls below the minimum. The same is true for someone investing less than $10,000 in the simple mutual fund portfolio. This can be solved by switching to ETFs, by concentrating your allocation, or by using products from Fidelity or Schwab with no minimum investment. Fidelity mutual funds have no minimum investment for those using a Fidelity brokerage account, and the same is true of Schwab mutual funds in a Schwab account.
 
