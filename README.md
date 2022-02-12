@@ -1,6 +1,6 @@
 # Concerns for the small investor
 
-I’d like to reiterate that especially for small investors, building an ideal portfolio is not as important as investing without major delay. If simplifying will prevent you from waiting, then simplify. You can even maintain geographic diversification with a total global fund like [VT](https://investor.vanguard.com/etf/profile/VT).
+I’d like to reiterate that especially for small investors, building an ideal portfolio is not as important as investing without major delay. If simplifying will prevent you from waiting, then simplify. You can even maintain geographic diversification with global funds like [VT](https://investor.vanguard.com/etf/profile/VT) and [BNDW](https://investor.vanguard.com/etf/profile/BNDW).
 
 A small investor’s gains in wealth will at first emerge overwhelmingly from earning and saving until they can invest more money. This may make the process initially seem to require more effort than the gains are worth. But recall that capital appreciation [implies exponential growth](https://www.youtube.com/watch?v=4gn4F1VmTvM&ab_channel=ThePlainBagel), where the highest absolute gains emerge in the latest years after decades of growth. If you wait a year to start, you’re postponing the foundation upon which those largest gains will be built.
 
