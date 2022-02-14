@@ -14,7 +14,7 @@ _ETF details_: Someone investing a small amount of money does not need to build 
 
 _Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum. If you are investing less than $30,000 in the complex mutual fund portfolio, the 10% portion falls below the minimum. The same is true for someone investing less than $10,000 in the simple mutual fund portfolio. This can be solved by switching to ETFs, by concentrating your allocation, or by using products from Fidelity or Schwab with no minimum investment.
 
-Including at least one mutual fund in your portfolio permits you to invest every dollar. For someone with a $100K portfolio, $50 remaining after investing in an ETF portfolio is not important. But for someone starting their investments with $500, the effortless fractional shares offered by mutual funds are an easy way to prevent cash drag.
+Including at least one mutual fund in your portfolio permits you to invest every dollar. For someone with a $100K portfolio, $50 remaining after investing in an ETF portfolio is not important. But for someone starting with $500, the effortless fractional shares offered by mutual funds are an easy way to prevent cash drag.
 
 &nbsp;
 
