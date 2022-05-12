@@ -20,8 +20,6 @@ Including at least one mutual fund in your portfolio permits you to invest every
 
 &nbsp;
 
-&nbsp;
-
 # Concerns for the large investor
 
 In his 2016 letter to Berkshire Hathaway shareholders, Warren Buffett wrote:
