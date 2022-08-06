@@ -10,9 +10,9 @@ Finally, the objective of investing as early in life as possible is not only the
 
 &nbsp;
 
-_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with six or eight ETFs, and may find it hard to do so if the price of a single share is a significant fraction of their total investment. Options are [provided](https://github.com/investindex/Fund/blob/main/README.md) for selecting a portfolio with three ETFs or even one, but you could design other simple portfolios with two to four ETFs.
+_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with seven or eight ETFs — no one _needs_ to! — and they may find it hard to do so if the price of a single share is a significant portion of their total investment. Options are [provided](https://github.com/investindex/Fund/blob/main/README.md) for simpler portfolios, and there are many sensible variations on the examples given.
 
-_Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum (some are higher). So if you're investing less than the minimum or you'd like to allocate to a few mutual funds, this can be an obstacle. It can be solved by switching to ETFs, by concentrating your allocation, or by using products from Fidelity or Schwab with no minimum investment. These challenges apply to taxable accounts or IRAs, but generally don't exist when investing in the main funds provided by your employer-sponsored retirement plan (regardless of whether the funds are managed by Vanguard).
+_Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum (some are higher). So if you're investing less than the minimum or you'd like to allocate to a few mutual funds, this can be an obstacle. It can be solved by switching to ETFs, concentrating your allocation, or using products from Fidelity or Schwab with no minimum investment. These challenges apply to taxable accounts or IRAs, but generally don't exist when investing in the main funds provided by your employer-sponsored retirement plan (regardless of whether the funds are managed by Vanguard).
 
 Including at least one mutual fund in your portfolio permits you to invest every dollar. For someone with a $100K portfolio, $50 remaining after investing in an ETF portfolio is not important. But for someone starting with $500, the effortless fractional shares offered by mutual funds are an easy way to prevent cash drag. However, I still don't suggest using mutual funds in taxable accounts, because minimizing taxes is important for your returns. [Fractional ETF shares](https://github.com/investindex/Practical#fractional-shares) are available through Fidelity and Vanguard.
 
@@ -53,8 +53,8 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Your psychology](https://github.com/investindex/Psychology)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
