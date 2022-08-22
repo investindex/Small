@@ -24,7 +24,7 @@ Including at least one mutual fund in your portfolio permits you to invest every
 
 In his 2016 letter to Berkshire Hathaway shareholders, Warren Buffett wrote:
 
-“Over the years, I’ve often been asked for investment advice, and in the process of answering I’ve learned a good deal about human behavior. My regular recommendation has been a low-cost S&P 500 index fund. To their credit, my friends who possess only modest means have usually followed my suggestion.
+> “Over the years, I’ve often been asked for investment advice, and in the process of answering I’ve learned a good deal about human behavior. My regular recommendation has been a low-cost S&P 500 index fund. To their credit, my friends who possess only modest means have usually followed my suggestion.
 
 I believe, however, that none of the mega-rich individuals, institutions or pension funds has followed that same advice when I’ve given it to them. Instead, these investors politely thank me for my thoughts and depart to listen to the siren song of a high-fee manager or, in the case of many institutions, to seek out another breed of hyper-helper called a consultant.
 
