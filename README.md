@@ -1,25 +1,3 @@
-# Concerns for the small investor
-
-I’d like to reiterate that especially for small investors, building an ideal portfolio is not as important as investing without major delay. If simplifying will prevent you from waiting, then simplify. You can even maintain geographic diversification with global funds like [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) and [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw).
-
-A small investor’s gains in wealth will at first emerge overwhelmingly from earning and saving until they can invest more money. This may make the process initially seem to require more effort than the gains are worth. But recall that capital appreciation [implies exponential growth](https://www.youtube.com/watch?v=4gn4F1VmTvM), where the highest absolute gains emerge in the latest years after decades of growth. If you wait a year to start, you’re postponing the foundation upon which those largest gains will be built.
-
-Let’s say you invest $1,000 in stocks your first year and make only $100. Was that worth all the research and decision-making you did to get started? Consider that if you keep the $100 invested in stocks, that alone will be worth thousands of dollars in 40 years. And the same is true for every additional $100 you save and put into your stock funds. From the perspective of your future self, of course it was worth the effort, because you can see the enormous value of a small amount of money given time to appreciate.
-
-Finally, the objective of investing as early in life as possible is not only the concrete profit. Too many people are uncomfortable with and even fearful of financial decisions, so becoming informed about financial planning early will allow you to progress through the new learning and decisions required throughout your life with greater confidence and ease.
-
-&nbsp;
-
-_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with seven or eight ETFs — no one _needs_ to! — and they may find it hard to do so if the price of a single share is a significant portion of their total investment. Options are [provided](https://github.com/investindex/Fund/blob/main/README.md) for simpler portfolios, and there are many sensible variations on the examples given.
-
-_Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum (some are higher). So if you're investing less than the minimum or you'd like to allocate to a few mutual funds, this can be an obstacle. It can be solved by switching to ETFs, concentrating your allocation, or using products from Fidelity or Schwab with no minimum investment. These challenges apply to taxable accounts or IRAs, but generally don't exist when investing in the main funds provided by your employer-sponsored retirement plan (regardless of whether the funds are managed by Vanguard).
-
-Including at least one mutual fund in your portfolio permits you to invest every dollar. For someone with a $100K portfolio, $50 remaining after investing in an ETF portfolio is not important. But for someone starting with $500, the effortless fractional shares offered by mutual funds are an easy way to prevent cash drag. However, I still don't suggest using mutual funds in taxable accounts, because minimizing taxes is important for your returns. [Fractional ETF shares](https://github.com/investindex/Practical#fractional-shares) are available through Fidelity and Vanguard.
-
-&nbsp;
-
-&nbsp;
-
 # Concerns for the large investor
 
 In his 2016 letter to Berkshire Hathaway shareholders, Warren Buffett wrote:
@@ -47,6 +25,28 @@ The most unacceptable conflicts of interest are produced by models that personal
 It is frequently recommended to ask whether an advisor is a [fiduciary](https://www.nerdwallet.com/article/investing/fiduciary), which in the US means they're obligated to act in your best interest. This is a good question to ask, but you should never feel comforted that an advisor's interests are actually aligned with yours simply because they have a fiduciary obligation.
 
 If you're motivated enough to read a detailed guide like this, it's likely that you should seek professional advice only for specific needs, rather than broad, continuous financial planning.
+
+&nbsp;
+
+&nbsp;
+
+# Concerns for the small investor
+
+I’d like to reiterate that especially for small investors, building an ideal portfolio is not as important as investing without major delay. If simplifying will prevent you from waiting, then simplify. You can even maintain geographic diversification with global funds like [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) and [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw).
+
+A small investor’s gains in wealth will at first emerge overwhelmingly from earning and saving until they can invest more money. This may make the process initially seem to require more effort than the gains are worth. But recall that capital appreciation [implies exponential growth](https://www.youtube.com/watch?v=4gn4F1VmTvM), where the highest absolute gains emerge in the latest years after decades of growth. If you wait a year to start, you’re postponing the foundation upon which those largest gains will be built.
+
+Let’s say you invest $1,000 in stocks your first year and make only $100. Was that worth all the research and decision-making you did to get started? Consider that if you keep the $100 invested in stocks, that alone will be worth thousands of dollars in 40 years. And the same is true for every additional $100 you save and put into your stock funds. From the perspective of your future self, of course it was worth the effort, because you can see the enormous value of a small amount of money given time to appreciate.
+
+Finally, the objective of investing as early in life as possible is not only the concrete profit. Too many people are uncomfortable with and even fearful of financial decisions, so becoming informed about financial planning early will allow you to progress through the new learning and decisions required throughout your life with greater confidence and ease.
+
+&nbsp;
+
+_ETF details_: Someone investing a small amount of money does not need to build a complex portfolio with seven or eight ETFs — no one _needs_ to! — and they may find it hard to do so if the price of a single share is a significant portion of their total investment. Options are [provided](https://github.com/investindex/Fund/blob/main/README.md) for simpler portfolios, and there are many sensible variations on the examples given.
+
+_Mutual fund details_: Many Vanguard mutual funds have a $3,000 minimum (some are higher). So if you're investing less than the minimum or you'd like to allocate to a few mutual funds, this can be an obstacle. It can be solved by switching to ETFs, concentrating your allocation, or using products from Fidelity or Schwab with no minimum investment. These challenges apply to taxable accounts or IRAs, but generally don't exist when investing in the main funds provided by your employer-sponsored retirement plan (regardless of whether the funds are managed by Vanguard).
+
+Including at least one mutual fund in your portfolio permits you to invest every dollar. For someone with a $100K portfolio, $50 remaining after investing in an ETF portfolio is not important. But for someone starting with $500, the effortless fractional shares offered by mutual funds are an easy way to prevent cash drag. However, I still don't suggest using mutual funds in taxable accounts, because minimizing taxes is important for your returns. [Fractional ETF shares](https://github.com/investindex/Practical#fractional-shares) are available through Fidelity and Vanguard.
 
 &nbsp;
 
