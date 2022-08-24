@@ -1,3 +1,7 @@
+This version has been retired. All updates to this section are now [here](https://github.com/investindex/Advice).
+
+&nbsp;
+
 # Concerns for the large investor
 
 In his 2016 letter to Berkshire Hathaway shareholders, Warren Buffett wrote:
