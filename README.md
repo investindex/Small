@@ -46,6 +46,8 @@ The most unacceptable conflicts of interest are produced by models that personal
 
 It is frequently recommended to ask whether an advisor is a [fiduciary](https://www.nerdwallet.com/article/investing/fiduciary), which in the US means they're obligated to act in your best interest. This is a good question to ask, but you should never feel comforted that an advisor's interests are actually aligned with yours simply because they have a fiduciary obligation.
 
+If you're motivated enough to read a detailed guide like this, it's likely that you should seek professional advice only for specific needs, rather than broad, continuous financial planning.
+
 &nbsp;
 
 [Click here for the next section — Practical information for execution](https://github.com/investindex/Practical)
